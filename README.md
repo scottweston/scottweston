@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @scottweston
 
-## 💞️ My website is [scottweston.com.au](https://scottweston.com.au)
+## 💞️ My website is [sdf.org/~srw](https://sdf.org/~srw)
 
 <!---
 scottweston/scottweston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
