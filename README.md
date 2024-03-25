@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @scottweston
 
-## 💞️ My website is [sdf.org/~srw](https://sdf.org/~srw)
+💞️ My website is [sdf.org/~srw](https://sdf.org/~srw)  
+
+![](https://fedi-badge.deno.dev/@scott@hackerspace.au/posts.svg?style=flat)
 
 <!---
 scottweston/scottweston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
