@@ -2,7 +2,7 @@
 
 💞️ My website is [sdf.org/~srw](https://sdf.org/~srw)  
 
-![](https://fedi-badge.deno.dev/@scott@hackerspace.au/posts.svg?style=flat)
+[![](https://fedi-badge.deno.dev/@scott@hackerspace.au/posts.svg?style=flat)](https://hackerspace.au/@scott)
 
 <!---
 scottweston/scottweston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
