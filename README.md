@@ -1,10 +1,12 @@
 # 👋 Hi, I’m @scottweston
 
-💞️ My website is [sdf.org/~srw](https://sdf.org/~srw)  
+💞️ My website is [srw.au](https://srw.au) and/or [sdf.org/~srw](https://sdf.org/~srw)  
 
-[![](https://fedi-badge.deno.dev/@scott@hackerspace.au/posts.svg?style=flat)](https://hackerspace.au/@scott)
+## Socials
 
-<!---
-scottweston/scottweston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐘 [scott@hackerspace.au](https://hackerspace.au/@scott)  
+🦋 [srw.au](https://bsky.app/profile/srw.au)
+
+## Badges
+
+[![](https://fedi-badge.deno.dev/@scott@hackerspace.au/posts.svg?style=flat)](https://hackerspace.au/@scott)  
