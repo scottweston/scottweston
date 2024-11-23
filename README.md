@@ -4,8 +4,8 @@
 
 ## Socials
 
-🐘 [scott@hackerspace.au](https://hackerspace.au/@scott)  
-🦋 [srw.au](https://bsky.app/profile/srw.au)
+* [srw.au/🐘](https://srw.au/🐘)
+* [srw.au/🦋](https://srw.au/🦋)
 
 ## Badges
 
